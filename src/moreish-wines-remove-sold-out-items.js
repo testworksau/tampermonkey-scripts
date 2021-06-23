@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Moreish Wines - hide sold out items
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/testworksau
 // @version      1.0.0
 // @description  Hides sold out items from the Moreish wines grid
 // @author       Glenn McDonald
@@ -8,6 +8,9 @@
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @updateURL    https://raw.githubusercontent.com/testworksau/tampermonkey-scripts/main/src/moreish-wines-remove-sold-out-items.js
+// @downloadURL  https://raw.githubusercontent.com/testworksau/tampermonkey-scripts/main/src/moreish-wines-remove-sold-out-items.js
+// @supportURL   https://github.com/testworksau/tampermonkey-scripts/issues
 // @grant        none
 // ==/UserScript==
 
